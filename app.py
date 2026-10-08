@@ -5,6 +5,7 @@ import gc
 import base64
 import time
 import yaml
+Import from dotenv import load_dotenv
 
 from tqdm import tqdm
 from brightdata_scrapper import *
